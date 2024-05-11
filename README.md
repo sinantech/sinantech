@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/sinantech" target="blank"><img src="https://img.shields.io/twitter/follow/sinantech?logo=twitter&style=for-the-badge" alt="sinantech" /></a> </p>
 
+"Hello, I'm Sinan. Although my profession is geological engineering, I'm striving to advance in the world of software development. I'm particularly focusing on technologies like Java, Spring Boot, React, and PostgreSQL as I progress towards becoming a full stack developer. With a keen interest in both front-end and back-end development, I'm dedicated to mastering the skills required for full stack development. By practicing with projects on GitHub and continuously learning new things, I'm dedicated to enhancing my coding skills. Alongside this journey, I'm eager to collaborate on projects involving these technologies. I appreciate any support along the way!"
+
 - 🔭 I’m currently working on **Huner Electric Co.**
 
 - 🌱 I’m currently learning **Java,Spring Boot,React,Angular**

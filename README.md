@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Huner Electric Co.**
 
-- 🌱 I’m currently learning **Java,Spring Boot,React,Nodejs,Javascript**
+- 🌱 I’m currently learning **Java,Spring Boot,React,Unity,C#,Javascript**
 
 - 📫 How to reach me **sinancemozer@gmail.com**
 

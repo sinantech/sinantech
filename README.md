@@ -27,7 +27,7 @@ Through my projects, I aim to combine creativity with technical expertise to dev
 
 ## 🚀 Currently Working On  
 - 🔭 **Hüner Electric Co.**
-- 🦌 ** DeerOps **
+- 🦌 **DeerOps**
 
 ## 🚀 Learning 
 - 🌱 **Java, Spring Boot, React, Unity, C#, JavaScript**

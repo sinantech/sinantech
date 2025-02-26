@@ -26,11 +26,13 @@ Through my projects, I aim to combine creativity with technical expertise to dev
 
 
 ## 🚀 Currently Working On  
-- 🔭 **Hüner Electric Co.**  
+- 🔭 **Hüner Electric Co.**
+- 🦌 ** DeerOps **
 
 ## 🚀 Learning 
 - 🌱 **Java, Spring Boot, React, Unity, C#, JavaScript**
 
+## 📧 Contact
 - 📫 How to reach me **sinancemozer@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/scanozer/](https://www.linkedin.com/in/scanozer/)

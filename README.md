@@ -4,11 +4,25 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sinantech&label=Profile%20views&color=0e75b6&style=flat" alt="sinantech" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sinantech" target="blank"><img src="https://img.shields.io/twitter/follow/sinantech?logo=twitter&style=for-the-badge" alt="sinantech" /></a> </p>
+<p align="left"> 
+  <a href="https://twitter.com/sinantech" target="blank">
+    <img src="https://img.shields.io/twitter/follow/sinantech?logo=twitter&style=for-the-badge" alt="sinantech" />
+  </a> 
+</p>
 
-- 🔭 I’m currently working on **Huner Electric Co.**
+## 👨‍💻 About Me  
+I am a software developer who graduated from the Department of Geotechnical Engineering Program.  
+I have been involved in numerous projects and conducted research and internships in this field. However, my curiosity and passion have directed me towards the world of software development.  
 
-- 🌱 I’m currently learning **Java,Spring Boot,React,Unity,C#,Javascript**
+Recently, I participated in the **Java Bootcamp** through the **Patika+ Program** to enhance my skills in software development, and I continue to strive for self-improvement.  
+
+I have a strong foundation in **backend technologies** such as Java and Spring, and I have experience in developing modern **web applications** using JavaScript.  
+Additionally, I am knowledgeable in **database management**, particularly SQL. I work towards solving complex problems and developing user-friendly solutions by utilizing these skills.  
+
+## 🚀 Currently Working On  
+- 🔭 **Hüner Electric Co.**  
+- 🌱 Currently learning: **Java, Spring Boot, React, Unity, C#, JavaScript**  
+
 
 - 📫 How to reach me **sinancemozer@gmail.com**
 

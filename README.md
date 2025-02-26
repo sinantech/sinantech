@@ -30,7 +30,9 @@ Through my projects, I aim to combine creativity with technical expertise to dev
 - 🦌 **DeerOps**
 
 ## 🚀 Learning 
-- 🌱 **Java, Spring Boot, React, Unity, C#, JavaScript**
+- 🌱 **Java, C#, JavaScript**
+- 🎮 **Unity,Unreal Engine,Blender**
+- 🍁 **Spring Boot, React, Nextjs**
 
 ## 📧 Contact
 - 📫 How to reach me **sinancemozer@gmail.com**

@@ -19,10 +19,17 @@ Recently, I participated in the **Java Bootcamp** through the **Patika+ Program*
 I have a strong foundation in **backend technologies** such as Java and Spring, and I have experience in developing modern **web applications** using JavaScript.  
 Additionally, I am knowledgeable in **database management**, particularly SQL. I work towards solving complex problems and developing user-friendly solutions by utilizing these skills.  
 
+In addition to web development, I am also passionate about **game development**.  
+I have been working with **Unity and C#**, focusing on creating interactive and immersive experiences.  
+I enjoy designing gameplay mechanics, optimizing performance, and integrating various game elements to build engaging experiences.  
+Through my projects, I aim to combine creativity with technical expertise to develop innovative games.  
+
+
 ## 🚀 Currently Working On  
 - 🔭 **Hüner Electric Co.**  
-- 🌱 Currently learning: **Java, Spring Boot, React, Unity, C#, JavaScript**  
 
+## 🚀 Learning 
+- 🌱 **Java, Spring Boot, React, Unity, C#, JavaScript**
 
 - 📫 How to reach me **sinancemozer@gmail.com**
 

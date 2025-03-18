@@ -11,7 +11,7 @@
 </p>
 
 ## 👨‍💻 About Me  
-I am a software developer who graduated from the Department of Geotechnical Engineering Program and Patika + FullStack Developer Bootcamp.  
+I'm a software developer who graduated from the Department of Geotechnical Engineering Program and Patika + FullStack Developer Bootcamp.  
 I have been involved in numerous projects and conducted research and internships in this field. However, my curiosity and passion have directed me towards the world of software development.  
 
 Recently, I participated in the **Java Bootcamp** through the **Patika+ Program** to enhance my skills in software development, and I continue to strive for self-improvement.  
